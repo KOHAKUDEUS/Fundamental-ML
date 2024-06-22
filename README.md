@@ -7,7 +7,7 @@ This repository contains the code and data for a mini-project on facial expressi
 
     |No.| Student Name    | Student ID |
     | --------| -------- | ------- |
-    |1|||
+    |1|||Nguyễn Minh Toàn    21110195
     |2|||
     |3|||
     |4|||
